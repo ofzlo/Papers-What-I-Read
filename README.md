@@ -22,6 +22,7 @@
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://alphavett.tistory.com/12)
 - [All are Worth Words: A ViT Backbone for Diffusion Models](https://www.notion.so/All-are-Worth-Words-A-ViT-Backbone-for-Diffusion-Models-b0ece9d0f45e42ed9d5345768a5c441e?pvs=4)
 ### Diffusion
+- [One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale](https://www.notion.so/One-Transformer-Fits-All-Distributions-in-Multi-Modal-Diffusion-at-Scale-508407701bc34e868690effcb80060d8?pvs=4)
 
 ## Natural Language Processing
 ### Transformer
